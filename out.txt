@@ -1,0 +1,1231 @@
+0 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/bytetolba.o
+LeoByteToLBA ['0x7800']
+1 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/cacreateleomanager.o
+2 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/cjcreateleomanager.o
+3 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/clearqueue.o
+LeoClearQueue ['0x77b0']
+4 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/createleomanager.o
+5 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/getaadr2.o
+LeoGetAAdr2 ['0x4e50']
+6 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/getaadr.o
+LeoGetAAdr ['0x8d30']
+7 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/getkadr.o
+LeoGetKAdr ['0x8230']
+8 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/inquiry.o
+9 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/lbatobyte.o
+LeoLBAToByte ['0x5070']
+10 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+11 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leocmdex.o
+leoRead_system_area ['0x4c3c']
+12 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leofunc.o
+__leoSetReset ['0x3d14']
+LeoResetClear ['0x3d38']
+13 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoglobals.o
+14 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoinquiry.o
+15 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoint.o
+leointerrupt ['0x3dc0']
+16 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leomecha.o
+leoAnalize_asic_status ['0x5500']
+leoRecv_event_mesg ['0x5bdc']
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+leoChkUnit_atten ['0x5db0']
+leoRetUnit_atten ['0x5dbc']
+leoClrUA_MEDIUM_CHANGED ['0x5e0c']
+17 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leomode_sel.o
+leoMode_sel ['0x7370']
+18 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leomotor.o
+19 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+20 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoram.o
+21 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leord_capa.o
+leoRd_capacity ['0x7420']
+22 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leord_diskid.o
+23 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+24 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoreset.o
+leoClr_queue ['0x7960']
+leoClr_reset ['0x7a08']
+25 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leorezero.o
+leoRezero ['0x7710']
+26 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoseek.o
+leoSeek ['0xbf10']
+27 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leo_tbl.o
+28 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+29 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leotimer.o
+30 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leotranslat.o
+leoTranslate ['0x7a80']
+31 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+32 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/leowrite.o
+leoWrite ['0xb1c0']
+33 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/modeselectasync.o
+34 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/readcapacity.o
+35 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/readdiskid.o
+LeoReadDiskID ['0x5310']
+36 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/readrtc.o
+37 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/readwrite.o
+LeoReadWrite ['0x38c0']
+38 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/rezero.o
+39 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/seek.o
+40 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/setrtc.o
+41 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/spdlmotor.o
+42 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0883014c7a9e8719d831bfe089a589f6/testunitready.o
+LeoTestUnitReady ['0xbe30']
+43 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/bootdisk.o
+44 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/bootstrap.o
+45 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/bytetolba.o
+LeoByteToLBA ['0x7800']
+46 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/cacreateleomanager.o
+LeoCACreateLeoManager ['0xbc00']
+47 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/cjcreateleomanager.o
+LeoCJCreateLeoManager ['0xb2f0']
+48 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/clearqueue.o
+LeoClearQueue ['0x77b0']
+49 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/createleomanager.o
+50 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/driveexist.o
+LeoDriveExist ['0x72a0']
+51 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/driverominit.o
+52 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/getaadr2.o
+LeoGetAAdr2 ['0x4e50']
+53 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/getaadr.o
+LeoGetAAdr ['0x8d30']
+54 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/getkadr.o
+LeoGetKAdr ['0x8230']
+55 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/inquiry.o
+56 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/lbatobyte.o
+LeoLBAToByte ['0x5070']
+57 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+58 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoc2_syndrome.o
+59 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leocmdex.o
+leomain ['0x47c0']
+leoRead_system_area ['0x4c3c']
+60 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leodiskinit.o
+osLeoDiskInit ['0x5270']
+61 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leofunc.o
+leoInitialize ['0x3950']
+leoCommand ['0x3b24']
+LeoReset ['0x3c84']
+__leoSetReset ['0x3d14']
+LeoResetClear ['0x3d38']
+62 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoglobals.o
+63 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoinquiry.o
+leoInquiry ['0x51c0']
+64 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leointerrupt.o
+__osLeoInterrupt ['0xb530']
+65 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoint.o
+leointerrupt ['0x3dc0']
+66 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leomecha.o
+leoAnalize_asic_status ['0x5500']
+leoChk_asic_ready ['0x560c']
+leoRecv_event_mesg ['0x5bdc']
+leoChk_done_status ['0x56f4']
+leoSend_asic_cmd_i ['0x58a8']
+leoWait_mecha_cmd_done ['0x5950']
+leoSend_asic_cmd_w ['0x59a0']
+leoSend_asic_cmd_w_nochkDiskChange ['0x59d8']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_err_retry ['0x5c30']
+leoChk_cur_drvmode ['0x5d40']
+leoChkUnit_atten ['0x5db0']
+leoRetUnit_atten ['0x5dbc']
+leoClrUA_RESET ['0x5df0']
+leoClrUA_MEDIUM_CHANGED ['0x5e0c']
+leoSetUA_MEDIUM_CHANGED ['0x5e28']
+leoInitUnit_atten ['0x1324', '0x5e40']
+67 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leomode_sel.o
+leoMode_sel ['0x7370']
+68 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leomotor.o
+leoStart_stop ['0x71b0']
+69 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+70 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoram.o
+71 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leord_capa.o
+leoRd_capacity ['0x7420']
+72 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leord_diskid.o
+leoReadDiskId ['0x5370']
+73 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+74 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoreset.o
+leoClr_queue ['0x7960']
+leoClr_reset ['0x7a08']
+75 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leorezero.o
+leoRezero ['0x7710']
+76 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoseek.o
+leoSeek ['0xbf10']
+77 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leosysdata.o
+78 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leo_tbl.o
+79 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leotempbuffer.o
+80 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+81 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leotimer.o
+leoReadTimer ['0x7d20']
+leoSetTimer ['0x7ddc']
+82 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leotranslat.o
+leoTranslate ['0x7a80']
+83 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+84 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/leowrite.o
+leoWrite ['0xb1c0']
+85 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/modeselectasync.o
+86 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/readcapacity.o
+87 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/readdiskid.o
+LeoReadDiskID ['0x5310']
+88 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/readrtc.o
+89 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/readwrite.o
+LeoReadWrite ['0x38c0']
+90 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/rezero.o
+91 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/seek.o
+92 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/setrtc.o
+93 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/spdlmotor.o
+LeoSpdlMotor ['0x5e50']
+94 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/0a5b3cd0320838f641b5bb912dfeaf7b/testunitready.o
+LeoTestUnitReady ['0xbe30']
+95 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/bytetolba.o
+96 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/cacreateleomanager.o
+97 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/cjcreateleomanager.o
+98 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/clearqueue.o
+99 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/createleomanager.o
+100 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/getaadr2.o
+101 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/getaadr.o
+102 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/getkadr.o
+103 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/inquiry.o
+104 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/lbatobyte.o
+105 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoc2ecc.o
+106 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leocmdex.o
+107 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leofunc.o
+108 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoglobals.o
+109 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoinquiry.o
+110 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoint.o
+111 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leomecha.o
+112 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leomode_sel.o
+113 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leomotor.o
+114 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leomseq_tbl.o
+115 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoram.o
+116 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leord_capa.o
+117 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leord_diskid.o
+118 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoread.o
+119 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoreset.o
+120 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leorezero.o
+121 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoseek.o
+122 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leo_tbl.o
+123 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leotestunit.o
+124 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leotimer.o
+125 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leotranslat.o
+126 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leoutil.o
+127 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/leowrite.o
+128 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/modeselectasync.o
+129 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/readcapacity.o
+130 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/readdiskid.o
+131 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/readrtc.o
+132 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/readwrite.o
+133 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/rezero.o
+134 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/seek.o
+135 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/setrtc.o
+136 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/spdlmotor.o
+137 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/26f6b90db9d7757cf47ead8c52a7482f/testunitready.o
+138 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/bytetolba.o
+LeoByteToLBA ['0x7800']
+139 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/clearqueue.o
+LeoClearQueue ['0x77b0']
+140 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/createleomanager.o
+LeoReadWrite ['0x38c0']
+141 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/inquiry.o
+142 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/kanread.o
+143 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/lbatobyte.o
+LeoLBAToByte ['0x5070']
+144 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+145 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leocmdex.o
+146 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leofunc.o
+147 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoinquiry.o
+148 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoint.o
+leointerrupt ['0x3dc0']
+149 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leomecha.o
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+150 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leomode_sel.o
+151 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leomotor.o
+152 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+153 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoram.o
+154 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leord_capa.o
+155 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leord_diskid.o
+156 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+157 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoreset.o
+leoClr_queue ['0x7960']
+158 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leorezero.o
+159 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoseek.o
+160 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leo_tbl.o
+161 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leotestunit.o
+162 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leotimer.o
+163 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leotranslat.o
+164 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+165 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/leowrite.o
+leoWrite ['0xb1c0']
+166 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/modeselect.o
+167 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/readcapacity.o
+168 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/readdiskid.o
+LeoReadDiskID ['0x5310']
+169 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/readrtc.o
+170 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/rezero.o
+171 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/seek.o
+172 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/setrtc.o
+173 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/spdlmotor.o
+174 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/351381c3338628bb6afc9d880ecb8ef9/testunitready.o
+LeoTestUnitReady ['0xbe30']
+175 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/bootdisk.o
+176 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/bootstrap.o
+177 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/bytetolba.o
+LeoByteToLBA ['0x7800']
+178 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/cacreateleomanager.o
+LeoCACreateLeoManager ['0xbc00']
+179 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/cjcreateleomanager.o
+LeoCJCreateLeoManager ['0xb2f0']
+180 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/clearqueue.o
+LeoClearQueue ['0x77b0']
+181 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/createleomanager.o
+182 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/driveexist.o
+LeoDriveExist ['0x72a0']
+183 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/driverominit.o
+184 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/getaadr2.o
+LeoGetAAdr2 ['0x4e50']
+185 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/getaadr.o
+LeoGetAAdr ['0x8d30']
+186 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/getkadr.o
+LeoGetKAdr ['0x8230']
+187 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/inquiry.o
+188 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/lbatobyte.o
+LeoLBAToByte ['0x5070']
+189 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+190 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoc2_syndrome.o
+191 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leocmdex.o
+leomain ['0x47c0']
+leoRead_system_area ['0x4c3c']
+192 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leodiskinit.o
+osLeoDiskInit ['0x5270']
+193 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leofunc.o
+leoInitialize ['0x3950']
+leoCommand ['0x3b24']
+LeoReset ['0x3c84']
+__leoSetReset ['0x3d14']
+LeoResetClear ['0x3d38']
+194 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoglobals.o
+195 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoinquiry.o
+leoInquiry ['0x51c0']
+196 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leointerrupt.o
+__osLeoInterrupt ['0xb530']
+197 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoint.o
+leointerrupt ['0x3dc0']
+198 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leomecha.o
+leoAnalize_asic_status ['0x5500']
+leoChk_asic_ready ['0x560c']
+leoRecv_event_mesg ['0x5bdc']
+leoChk_done_status ['0x56f4']
+leoSend_asic_cmd_i ['0x58a8']
+leoWait_mecha_cmd_done ['0x5950']
+leoSend_asic_cmd_w ['0x59a0']
+leoSend_asic_cmd_w_nochkDiskChange ['0x59d8']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_err_retry ['0x5c30']
+leoChk_cur_drvmode ['0x5d40']
+leoChkUnit_atten ['0x5db0']
+leoRetUnit_atten ['0x5dbc']
+leoClrUA_RESET ['0x5df0']
+leoClrUA_MEDIUM_CHANGED ['0x5e0c']
+leoSetUA_MEDIUM_CHANGED ['0x5e28']
+leoInitUnit_atten ['0x1324', '0x5e40']
+199 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leomode_sel.o
+leoMode_sel ['0x7370']
+200 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leomotor.o
+leoStart_stop ['0x71b0']
+201 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+202 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoram.o
+203 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leord_capa.o
+leoRd_capacity ['0x7420']
+204 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leord_diskid.o
+leoReadDiskId ['0x5370']
+205 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+206 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoreset.o
+leoClr_queue ['0x7960']
+leoClr_reset ['0x7a08']
+207 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leorezero.o
+leoRezero ['0x7710']
+208 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoseek.o
+leoSeek ['0xbf10']
+209 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leosysdata.o
+210 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leo_tbl.o
+211 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leotempbuffer.o
+212 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+213 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leotimer.o
+leoReadTimer ['0x7d20']
+leoSetTimer ['0x7ddc']
+214 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leotranslat.o
+leoTranslate ['0x7a80']
+215 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+216 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/leowrite.o
+leoWrite ['0xb1c0']
+217 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/modeselectasync.o
+218 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/readcapacity.o
+219 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/readdiskid.o
+LeoReadDiskID ['0x5310']
+220 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/readrtc.o
+221 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/readwrite.o
+LeoReadWrite ['0x38c0']
+222 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/rezero.o
+223 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/seek.o
+224 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/setrtc.o
+225 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/spdlmotor.o
+LeoSpdlMotor ['0x5e50']
+226 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/54cd83f59da65bfd68630afffe2a3a67/testunitready.o
+LeoTestUnitReady ['0xbe30']
+227 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/bytetolba.o
+LeoByteToLBA ['0x7800']
+228 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/clearqueue.o
+LeoClearQueue ['0x77b0']
+229 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/createleomanager.o
+LeoReadWrite ['0x38c0']
+230 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/inquiry.o
+231 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/kanread.o
+232 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/lbatobyte.o
+LeoLBAToByte ['0x5070']
+233 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+234 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leocmdex.o
+leoRead_system_area ['0x4c3c']
+235 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leofunc.o
+236 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoinquiry.o
+237 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoint.o
+leointerrupt ['0x3dc0']
+238 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leomecha.o
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+239 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leomode_sel.o
+leoMode_sel ['0x7370']
+240 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leomotor.o
+241 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+242 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoram.o
+243 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leord_capa.o
+leoRd_capacity ['0x7420']
+244 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leord_diskid.o
+245 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+246 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoreset.o
+leoClr_queue ['0x7960']
+247 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leorezero.o
+leoRezero ['0x7710']
+248 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoseek.o
+leoSeek ['0xbf10']
+249 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leo_tbl.o
+250 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+251 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leotimer.o
+252 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leotranslat.o
+leoTranslate ['0x7a80']
+253 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+254 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/leowrite.o
+leoWrite ['0xb1c0']
+255 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/modeselect.o
+256 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/readcapacity.o
+257 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/readdiskid.o
+LeoReadDiskID ['0x5310']
+258 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/readrtc.o
+259 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/rezero.o
+260 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/seek.o
+261 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/setrtc.o
+262 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/spdlmotor.o
+263 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/59e0a5241b6a7fd61e9168d7ee427d49/testunitready.o
+LeoTestUnitReady ['0xbe30']
+264 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/bytetolba.o
+LeoByteToLBA ['0x7800']
+265 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/clearqueue.o
+LeoClearQueue ['0x77b0']
+266 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/createleomanager.o
+LeoReadWrite ['0x38c0']
+267 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/inquiry.o
+268 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/kanread.o
+269 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/lbatobyte.o
+LeoLBAToByte ['0x5070']
+270 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+271 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leocmdex.o
+leoRead_system_area ['0x4c3c']
+272 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leofunc.o
+273 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoinquiry.o
+274 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoint.o
+leointerrupt ['0x3dc0']
+275 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leomecha.o
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+276 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leomode_sel.o
+leoMode_sel ['0x7370']
+277 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leomotor.o
+278 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+279 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoram.o
+280 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leord_capa.o
+leoRd_capacity ['0x7420']
+281 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leord_diskid.o
+282 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+283 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoreset.o
+leoClr_queue ['0x7960']
+284 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leorezero.o
+leoRezero ['0x7710']
+285 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoseek.o
+leoSeek ['0xbf10']
+286 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leo_tbl.o
+287 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+288 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leotimer.o
+289 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leotranslat.o
+leoTranslate ['0x7a80']
+290 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+291 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/leowrite.o
+leoWrite ['0xb1c0']
+292 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/modeselect.o
+293 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/readcapacity.o
+294 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/readdiskid.o
+LeoReadDiskID ['0x5310']
+295 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/readrtc.o
+296 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/rezero.o
+297 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/seek.o
+298 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/setrtc.o
+299 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/spdlmotor.o
+300 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/61c3053e6721ef971f7d266cc4247359/testunitready.o
+LeoTestUnitReady ['0xbe30']
+301 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/bytetolba.o
+302 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/clearqueue.o
+303 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/createleomanager.o
+304 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/inquiry.o
+305 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/kanread.o
+306 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/lbatobyte.o
+307 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoc2ecc.o
+308 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leocmdex.o
+309 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leofunc.o
+310 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoinquiry.o
+311 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoint.o
+312 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leomecha.o
+313 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leomode_sel.o
+314 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leomotor.o
+315 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leomseq_tbl.o
+316 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoram.o
+317 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leord_capa.o
+318 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leord_diskid.o
+319 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoread.o
+320 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoreset.o
+321 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leorezero.o
+322 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoseek.o
+323 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leo_tbl.o
+324 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leotestunit.o
+325 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leotimer.o
+326 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leotranslat.o
+327 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leoutil.o
+328 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/leowrite.o
+329 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/modeselect.o
+330 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/readcapacity.o
+331 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/readdiskid.o
+332 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/readrtc.o
+333 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/rezero.o
+334 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/seek.o
+335 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/setrtc.o
+336 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/spdlmotor.o
+337 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/6cd1842b9333cea410aa1edc81875b07/testunitready.o
+338 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/bytetolba.o
+339 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/clearqueue.o
+340 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/createleomanager.o
+341 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/inquiry.o
+342 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/kanread.o
+343 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/lbatobyte.o
+344 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoc2ecc.o
+345 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leocmdex.o
+346 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leofunc.o
+347 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoinquiry.o
+348 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoint.o
+349 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leomecha.o
+350 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leomode_sel.o
+351 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leomotor.o
+352 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leomseq_tbl.o
+353 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoram.o
+354 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leord_capa.o
+355 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leord_diskid.o
+356 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoread.o
+357 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoreset.o
+358 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leorezero.o
+359 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoseek.o
+360 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leo_tbl.o
+361 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leotestunit.o
+362 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leotimer.o
+363 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leotranslat.o
+364 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leoutil.o
+365 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/leowrite.o
+366 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/modeselect.o
+367 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/readcapacity.o
+368 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/readdiskid.o
+369 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/readrtc.o
+370 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/rezero.o
+371 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/seek.o
+372 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/setrtc.o
+373 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/spdlmotor.o
+374 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/871d41a95c7a425a3e80b1663a4e8004/testunitready.o
+375 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/bootdisk.o
+376 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/bootstrap.o
+377 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/bytetolba.o
+LeoByteToLBA ['0x7800']
+378 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/cacreateleomanager.o
+LeoCACreateLeoManager ['0xbc00']
+379 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/cjcreateleomanager.o
+LeoCJCreateLeoManager ['0xb2f0']
+380 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/clearqueue.o
+LeoClearQueue ['0x77b0']
+381 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/createleomanager.o
+382 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/driveexist.o
+LeoDriveExist ['0x72a0']
+383 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/driverominit.o
+384 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/getaadr2.o
+LeoGetAAdr2 ['0x4e50']
+385 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/getaadr.o
+LeoGetAAdr ['0x8d30']
+386 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/getkadr.o
+LeoGetKAdr ['0x8230']
+387 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/inquiry.o
+388 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/lbatobyte.o
+LeoLBAToByte ['0x5070']
+389 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+390 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoc2_syndrome.o
+391 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leocmdex.o
+leomain ['0x47c0']
+leoRead_system_area ['0x4c3c']
+392 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leodiskinit.o
+osLeoDiskInit ['0x5270']
+393 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leofunc.o
+leoInitialize ['0x3950']
+leoCommand ['0x3b24']
+LeoReset ['0x3c84']
+__leoSetReset ['0x3d14']
+LeoResetClear ['0x3d38']
+394 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoglobals.o
+395 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoinquiry.o
+leoInquiry ['0x51c0']
+396 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leointerrupt.o
+__osLeoInterrupt ['0xb530']
+397 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoint.o
+leointerrupt ['0x3dc0']
+398 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leomecha.o
+leoAnalize_asic_status ['0x5500']
+leoChk_asic_ready ['0x560c']
+leoRecv_event_mesg ['0x5bdc']
+leoChk_done_status ['0x56f4']
+leoSend_asic_cmd_i ['0x58a8']
+leoWait_mecha_cmd_done ['0x5950']
+leoSend_asic_cmd_w ['0x59a0']
+leoSend_asic_cmd_w_nochkDiskChange ['0x59d8']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_err_retry ['0x5c30']
+leoChk_cur_drvmode ['0x5d40']
+leoChkUnit_atten ['0x5db0']
+leoRetUnit_atten ['0x5dbc']
+leoClrUA_RESET ['0x5df0']
+leoClrUA_MEDIUM_CHANGED ['0x5e0c']
+leoSetUA_MEDIUM_CHANGED ['0x5e28']
+leoInitUnit_atten ['0x1324', '0x5e40']
+399 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leomode_sel.o
+leoMode_sel ['0x7370']
+400 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leomotor.o
+leoStart_stop ['0x71b0']
+401 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+402 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoram.o
+403 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leord_capa.o
+leoRd_capacity ['0x7420']
+404 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leord_diskid.o
+leoReadDiskId ['0x5370']
+405 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+406 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoreset.o
+leoClr_queue ['0x7960']
+leoClr_reset ['0x7a08']
+407 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leorezero.o
+leoRezero ['0x7710']
+408 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoseek.o
+leoSeek ['0xbf10']
+409 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leosysdata.o
+410 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leo_tbl.o
+411 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leotempbuffer.o
+412 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+413 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leotimer.o
+leoReadTimer ['0x7d20']
+leoSetTimer ['0x7ddc']
+414 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leotranslat.o
+leoTranslate ['0x7a80']
+415 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+416 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/leowrite.o
+leoWrite ['0xb1c0']
+417 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/modeselectasync.o
+418 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/readcapacity.o
+419 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/readdiskid.o
+LeoReadDiskID ['0x5310']
+420 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/readrtc.o
+421 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/readwrite.o
+LeoReadWrite ['0x38c0']
+422 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/rezero.o
+423 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/seek.o
+424 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/setrtc.o
+425 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/spdlmotor.o
+LeoSpdlMotor ['0x5e50']
+426 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/927ff63fcf737bd871de6ff768688735/testunitready.o
+LeoTestUnitReady ['0xbe30']
+427 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/bootdisk.o
+428 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/bootstrap.o
+429 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/bytetolba.o
+430 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/cacreateleomanager.o
+431 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/cjcreateleomanager.o
+432 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/clearqueue.o
+433 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/createleomanager.o
+434 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/driveexist.o
+435 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/driverominit.o
+436 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/getaadr2.o
+437 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/getaadr.o
+438 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/getkadr.o
+439 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/inquiry.o
+440 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/lbatobyte.o
+441 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoc2ecc.o
+442 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoc2_syndrome.o
+443 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leocmdex.o
+444 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leodiskinit.o
+445 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leofunc.o
+446 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoglobals.o
+447 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoinquiry.o
+448 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leointerrupt.o
+449 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoint.o
+450 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leomecha.o
+451 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leomode_sel.o
+452 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leomotor.o
+453 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leomseq_tbl.o
+454 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoram.o
+455 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leord_capa.o
+456 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leord_diskid.o
+457 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoread.o
+458 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoreset.o
+459 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leorezero.o
+460 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoseek.o
+461 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leosysdata.o
+462 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leo_tbl.o
+463 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leotempbuffer.o
+464 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leotestunit.o
+465 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leotimer.o
+466 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leotranslat.o
+467 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leoutil.o
+468 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/leowrite.o
+469 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/modeselectasync.o
+470 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/readcapacity.o
+471 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/readdiskid.o
+472 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/readrtc.o
+473 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/readwrite.o
+474 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/rezero.o
+475 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/seek.o
+476 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/setrtc.o
+477 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/spdlmotor.o
+478 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/a94abd49e35bb479d73f4d47f0c292ab/testunitready.o
+479 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/bytetolba.o
+480 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/cacreateleomanager.o
+481 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/cjcreateleomanager.o
+482 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/clearqueue.o
+483 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/createleomanager.o
+484 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/getaadr2.o
+485 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/getaadr.o
+486 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/getkadr.o
+487 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/inquiry.o
+488 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/lbatobyte.o
+489 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoc2ecc.o
+490 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leocmdex.o
+491 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leofunc.o
+492 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoglobals.o
+493 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoinquiry.o
+494 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoint.o
+495 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leomecha.o
+496 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leomode_sel.o
+497 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leomotor.o
+498 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leomseq_tbl.o
+499 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoram.o
+500 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leord_capa.o
+501 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leord_diskid.o
+502 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoread.o
+503 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoreset.o
+504 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leorezero.o
+505 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoseek.o
+506 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leo_tbl.o
+507 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leotestunit.o
+508 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leotimer.o
+509 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leotranslat.o
+510 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leoutil.o
+511 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/leowrite.o
+512 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/modeselectasync.o
+513 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/readcapacity.o
+514 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/readdiskid.o
+515 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/readrtc.o
+516 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/readwrite.o
+517 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/rezero.o
+518 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/seek.o
+519 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/setrtc.o
+520 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/spdlmotor.o
+521 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/b4ec554111796c86e207fc9aef544ea4/testunitready.o
+522 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/bootdisk.o
+523 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/bootstrap.o
+524 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/bytetolba.o
+525 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/cacreateleomanager.o
+526 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/cjcreateleomanager.o
+527 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/clearqueue.o
+528 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/createleomanager.o
+529 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/driveexist.o
+530 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/driverominit.o
+531 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/getaadr2.o
+532 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/getaadr.o
+533 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/getkadr.o
+534 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/inquiry.o
+535 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/lbatobyte.o
+536 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoc2ecc.o
+537 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoc2_syndrome.o
+538 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leocmdex.o
+539 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leodiskinit.o
+540 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leofunc.o
+541 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoglobals.o
+542 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoinquiry.o
+543 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leointerrupt.o
+544 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoint.o
+545 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leomecha.o
+546 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leomode_sel.o
+547 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leomotor.o
+548 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leomseq_tbl.o
+549 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoram.o
+550 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leord_capa.o
+551 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leord_diskid.o
+552 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoread.o
+553 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoreset.o
+554 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leorezero.o
+555 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoseek.o
+556 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leosysdata.o
+557 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leo_tbl.o
+558 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leotempbuffer.o
+559 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leotestunit.o
+560 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leotimer.o
+561 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leotranslat.o
+562 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leoutil.o
+563 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/leowrite.o
+564 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/modeselectasync.o
+565 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/readcapacity.o
+566 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/readdiskid.o
+567 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/readrtc.o
+568 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/readwrite.o
+569 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/rezero.o
+570 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/seek.o
+571 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/setrtc.o
+572 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/spdlmotor.o
+573 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/c1d35d4d67ab157e37b6b52be8fb50d0/testunitready.o
+574 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/bytetolba.o
+575 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/cacreateleomanager.o
+576 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/cjcreateleomanager.o
+577 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/clearqueue.o
+578 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/createleomanager.o
+579 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/getaadr2.o
+580 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/getaadr.o
+581 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/getkadr.o
+582 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/inquiry.o
+583 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/lbatobyte.o
+584 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoc2ecc.o
+585 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leocmdex.o
+586 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leofunc.o
+587 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoglobals.o
+588 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoinquiry.o
+589 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoint.o
+590 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leomecha.o
+591 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leomode_sel.o
+592 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leomotor.o
+593 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leomseq_tbl.o
+594 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoram.o
+595 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leord_capa.o
+596 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leord_diskid.o
+597 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoread.o
+598 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoreset.o
+599 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leorezero.o
+600 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoseek.o
+601 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leo_tbl.o
+602 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leotestunit.o
+603 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leotimer.o
+604 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leotranslat.o
+605 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leoutil.o
+606 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/leowrite.o
+607 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/modeselectasync.o
+608 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/readcapacity.o
+609 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/readdiskid.o
+610 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/readrtc.o
+611 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/readwrite.o
+612 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/rezero.o
+613 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/seek.o
+614 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/setrtc.o
+615 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/spdlmotor.o
+616 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/d7ccd925a4cef574f5ec119648a86811/testunitready.o
+617 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/bytetolba.o
+LeoByteToLBA ['0x7800']
+618 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/cacreateleomanager.o
+619 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/cjcreateleomanager.o
+620 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/clearqueue.o
+LeoClearQueue ['0x77b0']
+621 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/createleomanager.o
+622 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/getaadr2.o
+LeoGetAAdr2 ['0x4e50']
+623 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/getaadr.o
+LeoGetAAdr ['0x8d30']
+624 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/getkadr.o
+LeoGetKAdr ['0x8230']
+625 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/inquiry.o
+626 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/lbatobyte.o
+LeoLBAToByte ['0x5070']
+627 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+628 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leocmdex.o
+leoRead_system_area ['0x4c3c']
+629 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leofunc.o
+__leoSetReset ['0x3d14']
+LeoResetClear ['0x3d38']
+630 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoglobals.o
+631 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoinquiry.o
+632 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoint.o
+leointerrupt ['0x3dc0']
+633 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leomecha.o
+leoAnalize_asic_status ['0x5500']
+leoRecv_event_mesg ['0x5bdc']
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+leoChkUnit_atten ['0x5db0']
+leoRetUnit_atten ['0x5dbc']
+leoClrUA_MEDIUM_CHANGED ['0x5e0c']
+634 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leomode_sel.o
+leoMode_sel ['0x7370']
+635 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leomotor.o
+636 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+637 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoram.o
+638 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leord_capa.o
+leoRd_capacity ['0x7420']
+639 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leord_diskid.o
+640 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+641 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoreset.o
+leoClr_queue ['0x7960']
+leoClr_reset ['0x7a08']
+642 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leorezero.o
+leoRezero ['0x7710']
+643 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoseek.o
+leoSeek ['0xbf10']
+644 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leo_tbl.o
+645 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+646 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leotimer.o
+647 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leotranslat.o
+leoTranslate ['0x7a80']
+648 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+649 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/leowrite.o
+leoWrite ['0xb1c0']
+650 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/modeselectasync.o
+651 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/readcapacity.o
+652 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/readdiskid.o
+LeoReadDiskID ['0x5310']
+653 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/readrtc.o
+654 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/readwrite.o
+LeoReadWrite ['0x38c0']
+655 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/rezero.o
+656 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/seek.o
+657 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/setrtc.o
+658 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/spdlmotor.o
+659 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/db6ccfac54584547e28c1f69e1c853f1/testunitready.o
+LeoTestUnitReady ['0xbe30']
+660 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/bytetolba.o
+LeoByteToLBA ['0x7800']
+661 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/cacreateleomanager.o
+662 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/cjcreateleomanager.o
+663 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/clearqueue.o
+LeoClearQueue ['0x77b0']
+664 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/createleomanager.o
+665 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/getaadr2.o
+LeoGetAAdr2 ['0x4e50']
+666 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/getaadr.o
+LeoGetAAdr ['0x8d30']
+667 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/getkadr.o
+LeoGetKAdr ['0x8230']
+668 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/inquiry.o
+669 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/lbatobyte.o
+LeoLBAToByte ['0x5070']
+670 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+671 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leocmdex.o
+leoRead_system_area ['0x4c3c']
+672 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leofunc.o
+__leoSetReset ['0x3d14']
+LeoResetClear ['0x3d38']
+673 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoglobals.o
+674 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoinquiry.o
+leoInquiry ['0x51c0']
+675 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoint.o
+leointerrupt ['0x3dc0']
+676 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leomecha.o
+leoAnalize_asic_status ['0x5500']
+leoRecv_event_mesg ['0x5bdc']
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+leoChkUnit_atten ['0x5db0']
+leoRetUnit_atten ['0x5dbc']
+leoClrUA_RESET ['0x5df0']
+leoClrUA_MEDIUM_CHANGED ['0x5e0c']
+leoSetUA_MEDIUM_CHANGED ['0x5e28']
+leoInitUnit_atten ['0x1324', '0x5e40']
+677 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leomode_sel.o
+leoMode_sel ['0x7370']
+678 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leomotor.o
+leoStart_stop ['0x71b0']
+679 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leomseq_tbl.o
+leoSet_mseq ['0x7000']
+680 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoram.o
+681 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leord_capa.o
+leoRd_capacity ['0x7420']
+682 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leord_diskid.o
+leoReadDiskId ['0x5370']
+683 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoread.o
+leoRead ['0x4eb0']
+leoRead_common ['0x4edc']
+684 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoreset.o
+leoClr_queue ['0x7960']
+leoClr_reset ['0x7a08']
+685 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leorezero.o
+leoRezero ['0x7710']
+686 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoseek.o
+leoSeek ['0xbf10']
+687 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leo_tbl.o
+688 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+689 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leotimer.o
+leoReadTimer ['0x7d20']
+leoSetTimer ['0x7ddc']
+690 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leotranslat.o
+leoTranslate ['0x7a80']
+691 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+692 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/leowrite.o
+leoWrite ['0xb1c0']
+693 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/modeselectasync.o
+694 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/readcapacity.o
+695 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/readdiskid.o
+LeoReadDiskID ['0x5310']
+696 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/readrtc.o
+697 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/readwrite.o
+LeoReadWrite ['0x38c0']
+698 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/rezero.o
+699 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/seek.o
+700 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/setrtc.o
+701 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/spdlmotor.o
+LeoSpdlMotor ['0x5e50']
+702 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/edb4a21b1331feaf108d9572251d73cd/testunitready.o
+LeoTestUnitReady ['0xbe30']
+703 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/bytetolba.o
+LeoByteToLBA ['0x7800']
+704 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/clearqueue.o
+LeoClearQueue ['0x77b0']
+705 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/createleomanager.o
+LeoReadWrite ['0x38c0']
+706 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/inquiry.o
+707 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/kanread.o
+708 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/lbatobyte.o
+LeoLBAToByte ['0x5070']
+709 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoc2ecc.o
+leoC2_Correction ['0x5f10']
+710 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leocmdex.o
+leoRead_system_area ['0x4c3c']
+711 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leofunc.o
+712 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoinquiry.o
+713 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoint.o
+714 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leomecha.o
+leoSend_asic_cmd_w ['0x59a0']
+leoDetect_index_w ['0x5ac4']
+leoRecal_i ['0x5aec', '0x5b14']
+leoRecal_w ['0x5aec', '0x5b14']
+leoSeek_i ['0x5b3c']
+leoSeek_w ['0x5ba0']
+leoDrive_reset ['0x5d80']
+leoChk_cur_drvmode ['0x5d40']
+715 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leomode_sel.o
+leoMode_sel ['0x7370']
+716 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leomotor.o
+717 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leomseq_tbl.o
+718 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoram.o
+719 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leord_capa.o
+leoRd_capacity ['0x7420']
+720 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leord_diskid.o
+721 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoread.o
+leoRead ['0x4eb0']
+722 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoreset.o
+leoClr_queue ['0x7960']
+723 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leorezero.o
+leoRezero ['0x7710']
+724 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoseek.o
+leoSeek ['0xbf10']
+725 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leo_tbl.o
+726 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leotestunit.o
+leoTest_unit_rdy ['0xbed0']
+727 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leotimer.o
+728 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leotranslat.o
+leoTranslate ['0x7a80']
+729 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leoutil.o
+leoLba_to_phys ['0x74c0']
+leoLba_to_vzone ['0x76b4']
+730 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/leowrite.o
+731 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/modeselect.o
+732 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/readcapacity.o
+733 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/readdiskid.o
+LeoReadDiskID ['0x5310']
+734 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/readrtc.o
+735 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/readwritelong.o
+736 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/rezero.o
+737 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/sectorread.o
+738 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/seek.o
+739 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/setrtc.o
+740 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/spdlmotor.o
+741 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/sysreadwrite.o
+742 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f3b71023ad399e9417314693dd9f54af/testunitready.o
+LeoTestUnitReady ['0xbe30']
+743 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/bootdisk.o
+744 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/bootstrap.o
+745 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/bytetolba.o
+746 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/cacreateleomanager.o
+747 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/cjcreateleomanager.o
+748 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/clearqueue.o
+749 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/createleomanager.o
+750 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/driveexist.o
+751 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/driverominit.o
+752 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/getaadr2.o
+753 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/getaadr.o
+754 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/getkadr.o
+755 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/inquiry.o
+756 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/lbatobyte.o
+757 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoc2ecc.o
+758 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoc2_syndrome.o
+759 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leocmdex.o
+760 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leodiskinit.o
+761 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leofunc.o
+762 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoglobals.o
+763 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoinquiry.o
+764 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leointerrupt.o
+765 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoint.o
+766 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leomecha.o
+767 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leomode_sel.o
+768 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leomotor.o
+769 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leomseq_tbl.o
+770 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoram.o
+771 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leord_capa.o
+772 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leord_diskid.o
+773 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoread.o
+774 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoreset.o
+775 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leorezero.o
+776 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoseek.o
+777 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leosysdata.o
+778 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leo_tbl.o
+779 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leotempbuffer.o
+780 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leotestunit.o
+781 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leotimer.o
+782 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leotranslat.o
+783 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leoutil.o
+784 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/leowrite.o
+785 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/modeselectasync.o
+786 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/readcapacity.o
+787 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/readdiskid.o
+788 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/readrtc.o
+789 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/readwrite.o
+790 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/rezero.o
+791 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/seek.o
+792 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/setrtc.o
+793 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/spdlmotor.o
+794 / 795 /home/dragorn421/Documents/n64data/leo_collection/byhash/extracted/f8d4049434ad605fdb5f660924b0aa54/testunitready.o
